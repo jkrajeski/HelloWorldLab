@@ -1,0 +1,3 @@
+When opening this app, It prompts you to type your name in the text box.
+After doing so, you click the "Click Me" button.
+This changes the text at the top from "Hello World" to "Hi, [Insert name]"
